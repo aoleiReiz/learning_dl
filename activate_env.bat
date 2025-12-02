@@ -1,0 +1,1 @@
+C:\Users\E109985\working\ENVS\ds_env\Scripts\activate
